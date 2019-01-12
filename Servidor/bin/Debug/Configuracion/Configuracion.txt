@@ -1,0 +1,28 @@
+192.168.0.17
+4242
+C:\Desktop\Datos
+smtp.gmail.com
+587
+control.anacostel@gmail.com
+VABhAHIAaQBmAGkAYwBhAGQAbwByADIAMAAxADgA
+nico.las0315@hotmail.com
+
+
+Desactivado
+Desactivado
+0
+80
+Desactivado
+Desactivado
+300-200
+No establecido-No establecido
+No establecido-No establecido
+1
+1
+1
+
+
+
+server=localhost;port=3306;database=anacostel;Uid=root;pwd=0315;
+192.168.0.17
+4040

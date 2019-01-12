@@ -1,0 +1,28 @@
+10.0.2.15
+4242
+C:\jolubas\Datos
+smtp.gmail.com
+587
+nicolas.angaritao@unilibrebog.edu.co
+RwBlAG4AaQBvADAAMwAxADUA
+nico.las0315@hotmail.com
+
+
+Desactivado
+Desactivado
+0
+80
+Desactivado
+Desactivado
+200-300
+No establecido-No establecido
+No establecido-No establecido
+1
+1
+1
+
+
+
+server=localhost;port=3306;database=anacostel;Uid=root;pwd=0315;
+10.0.2.15
+4141

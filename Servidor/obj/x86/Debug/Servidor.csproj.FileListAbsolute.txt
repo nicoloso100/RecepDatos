@@ -1,0 +1,11 @@
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\x86\Debug\Servidor.exe.config
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\x86\Debug\Servidor.exe
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\x86\Debug\Servidor.pdb
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.ConfiguraIP.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.GeneraIP.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.Lista_de_errores.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.Servidor.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.Properties.Resources.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.csproj.GenerateResource.Cache
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.exe
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\x86\Debug\Servidor.pdb

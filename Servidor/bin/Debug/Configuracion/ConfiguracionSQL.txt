@@ -1,0 +1,22 @@
+Puerto 1:
+Llamadas entrantes:
+1
+D-58:8-HH:MM'SS
+E-20:3
+F-0:8-HH:MM'SS
+H-9:7-HH:MM'SS
+l-33:3
+N-33:18
+T-27:5
+Llamadas salientes:
+1
+D-58:8-HH:MM'SS
+E-20:3
+F-0:8-DD/MM/YY
+H-9:7-HH:MMXX
+l-33:1
+N-33:15
+T-27:5
+Llamadas internas:
+1
+l-33:1

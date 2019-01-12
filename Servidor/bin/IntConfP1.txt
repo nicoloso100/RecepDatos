@@ -1,0 +1,25 @@
+Int1
+bbb  eee  aammdd hh:nn uuuu.0 ccccccccccccccccccc   ############### llllllll rrrrrrrr iiiiiiii vvvvvvvv  zzz
+a- 
+m- 
+d- 
+h- 
+n- 
+e- i
+b- i
+t- 
+#- d
+u- d
+l- d
+r- d
+i- d
+w- 
+v- d
+k- 
+z- d
+c- i
+si
+si
+si
+si
+C:\Users\nicoloso100\Desktop\PruebaInterface\recibe.txt

@@ -1,0 +1,97 @@
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe.config
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.pdb
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraIP.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Contraseña.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.GeneraIP.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Lista_de_errores.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.RecepDatos.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.Properties.Resources.resources
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csproj.GenerateResource.Cache
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.exe
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.pdb
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\MySql.Data.dll
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csprojResolveAssemblyReference.cache
+C:\Users\nicoloso100\Documents\C# para Unity - Nivel 1\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraSQL.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe.config
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.exe
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.pdb
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.pdb
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\MySql.Data.dll
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csprojResolveAssemblyReference.cache
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraIP.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraSQL.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Contraseña.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.GeneraIP.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Lista_de_errores.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.RecepDatos.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.Properties.Resources.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csproj.GenerateResource.Cache
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.CaracteresEspeciales.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Parametros.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.PanelConfigSQL.resources
+C:\Users\nicoloso100\Documents\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Mensaje.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe.config
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.exe
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\RecepDatos.pdb
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\bin\Debug\MySql.Data.dll
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csprojResolveAssemblyReference.cache
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.CaracteresEspeciales.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraIP.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.ConfiguraSQL.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Contraseña.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.GeneraIP.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Lista_de_errores.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Mensaje.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.PanelConfigSQL.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.Parametros.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\Servidor.RecepDatos.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.Properties.Resources.resources
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csproj.GenerateResource.Cache
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.exe
+E:\C# Visual Studio\Tme Server\Grafico\ServidorTcpIp\Servidor\Servidor\obj\Debug\RecepDatos.pdb
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.exe.config
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.exe
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.pdb
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\MySql.Data.dll
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.CaracteresEspeciales.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.ConfiguraIP.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.ConfiguraSQL.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Contraseña.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.GeneraIP.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Lista_de_errores.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Mensaje.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.PanelConfigSQL.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Parametros.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.RecepDatos.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.Properties.Resources.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csproj.GenerateResource.Cache
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csproj.CoreCompileInputs.cache
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.exe
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.pdb
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.SerialConfig.resources
+E:\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csprojResolveAssemblyReference.cache
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.exe.config
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.exe
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\RecepDatos.pdb
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\bin\Debug\MySql.Data.dll
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csprojResolveAssemblyReference.cache
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.CaracteresEspeciales.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.ConfiguraIP.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.ConfiguraSQL.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Contraseña.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.GeneraIP.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Lista_de_errores.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Mensaje.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.PanelConfigSQL.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.Parametros.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.RecepDatos.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.Properties.Resources.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\Servidor.SerialConfig.resources
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csproj.GenerateResource.cache
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csproj.CoreCompileInputs.cache
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.csproj.CopyComplete
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.exe
+C:\Users\´nicoloso100\Documents\C# Visual Studio\Hoteles\RecepDatos\Servidor\obj\Debug\RecepDatos.pdb
